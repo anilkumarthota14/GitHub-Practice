@@ -2,4 +2,7 @@ hello git!
 im practicing you
 git init
 git status
-git 
+git add . 
+git commit -m "initial commit"
+git log
+git log --oneline
