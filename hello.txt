@@ -8,3 +8,4 @@ git log
 git log --oneline
 
 login feature is under development
+This project was cloned from GitHub..
