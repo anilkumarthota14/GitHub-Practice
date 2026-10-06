@@ -1,0 +1,5 @@
+.env
+*.log
+--pycache__/
+node_modules/
+.vscode/
